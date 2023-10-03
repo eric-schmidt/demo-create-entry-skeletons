@@ -1,8 +1,8 @@
 {
-  "name": "Umami Migration Scripts",
+  "name": "demo-create-entry-skeletons",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./src/createEntries.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
