@@ -1,0 +1,22 @@
+{
+  "name": "Umami Migration Scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@contentful/rich-text-from-markdown": "^15.16.8",
+    "@supercharge/promise-pool": "^3.0.0",
+    "chalk": "^5.1.2",
+    "contentful-management": "^10.15.1",
+    "dotenv": "^16.0.3",
+    "fetch": "^1.1.0",
+    "node-fetch": "^3.2.10",
+    "turndown": "^7.1.2"
+  }
+}
